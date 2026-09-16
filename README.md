@@ -1,2 +1,7 @@
 # Stormwater-biochar-review-
 Critical review on stormwater challenges and biochar treatment potential in London, Ontario. Manuscript in preparation.
+## Abstract
+London, Ontario faces increasing stormwater management pressures caused by aging drainage infrastructure, rapid urban expansion, and altering precipitation regimes. Much of the municipal drainage network was constructed between the 1960s and 1990s and currently operates near or beyond original design capacities. Simultaneously, watershed monitoring continues to record fair to poor water quality in urbanized reaches of the Thames River due to elevated levels of phosphorus, nitrogen, heavy metals, road salt, sediment, and microplastics. Conventional engineering controls mitigate peak flows and capture solids but show inconsistent removal efficiencies for dissolved pollutants.
+Biochar—a carbon rich material produced through pyrolysis—has emerged as a promising amendment for stormwater filter media and bioretention systems. Consolidated literature indicates improved removal of heavy metals (27–100%) and phosphorus (45–94%), with variable nitrogen performance depending on feedstock. This review evaluates London’s stormwater challenges, biochar’s mechanisms, and opportunities for targeted pilot installations in flood prone areas such as Old East Village, SoHo, and the Riverside Drive/Blackfriars Bridge corridor.
+
+**Status:** Manuscript in preparation.
